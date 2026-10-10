@@ -1,16 +1,15 @@
-## Hi there 👋
+# Nasiru Abdulkarim
+Frontend Developer in Nigeria, working with React, Next.js, TypeScript and Tailwind CSS.
+Nine months at [Qudra.io](https://www.qudra.io) (Oct 2025 – Jun 2026): maintained the live company site and shipped the Diasgrid landing page, worked on one of three projects featured on Qudra's homepage.
 
-<!--
-**Nanzycodes/Nanzycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Selected work
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it is | Proof |
+| [Nanzy Marketplace](https://nanzy-marketplace.vercel.app) · [code](https://github.com/Nanzycodes/Nanzy-marketplace) | Fashion marketplace with buyer, seller and admin roles, Paystack payment routes and tested subscription rules 
+| [Nanzy Admin](https://nanzy-admin.vercel.app) · [code](https://github.com/Nanzycodes/Nanzy-admin) | Marketplace admin dashboard with Supabase sign-in and database-level access rules 
+| [Nanzy Vogues](https://nanzyvogues.vercel.app) · [code](https://github.com/Nanzycodes/Nanzyvogues) | Fashion storefront with cart, sign-up and login on a Prisma database
+## Tools
+TypeScript · JavaScript · React · Next.js · Tailwind CSS · Supabase · Prisma · Vitest · Docker · GitHub Actions
+## Contact
+nanzycodes@gmail.com
+[LinkedIn](https://www.linkedin.com/in/nasiru-abdulkarim)
