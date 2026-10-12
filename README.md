@@ -3,7 +3,7 @@ Frontend Developer in Nigeria, working with React, Next.js, TypeScript and Tailw
 Nine months at [Qudra.io](https://www.qudra.io) (Oct 2025 – Jun 2026): maintained the live company site and shipped the Diasgrid landing page, worked on one of three projects featured on Qudra's homepage.
 
 ## Selected work
-[Nanzy Marketplace](https://nanzy-marketplace.vercel.app) | Fashion marketplace with buyer, seller and admin roles, Paystack payment routes and tested subscription rules 
+| [Nanzy Marketplace](https://nanzy-marketplace.vercel.app) | Fashion marketplace with buyer, seller and admin roles, Paystack payment routes and tested subscription rules 
 | [Nanzy Admin](https://nanzy-admin.vercel.app) · (https://github.com/Nanzycodes/Nanzy-admin) | Marketplace admin dashboard with Supabase sign-in and database-level access rules 
 | [Nanzy Vogues](https://nanzyvogues.vercel.app) ·(https://github.com/Nanzycodes/Nanzyvogues) | Fashion storefront with cart, sign-up and login on a Prisma database
 ## Tools
