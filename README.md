@@ -4,8 +4,8 @@ Nine months at [Qudra.io](https://www.qudra.io) (Oct 2025 – Jun 2026): maintai
 
 ## Selected work
 |(https://nanzy-marketplace.vercel.app) (https://github.com/Nanzycodes/Nanzy-marketplace) | Fashion marketplace with buyer, seller and admin roles, Paystack payment routes and tested subscription rules 
-| [Nanzy Admin](https://nanzy-admin.vercel.app) · [code](https://github.com/Nanzycodes/Nanzy-admin) | Marketplace admin dashboard with Supabase sign-in and database-level access rules 
-| [Nanzy Vogues](https://nanzyvogues.vercel.app) · [code](https://github.com/Nanzycodes/Nanzyvogues) | Fashion storefront with cart, sign-up and login on a Prisma database
+| [Nanzy Admin](https://nanzy-admin.vercel.app) · (https://github.com/Nanzycodes/Nanzy-admin) | Marketplace admin dashboard with Supabase sign-in and database-level access rules 
+| [Nanzy Vogues](https://nanzyvogues.vercel.app) ·(https://github.com/Nanzycodes/Nanzyvogues) | Fashion storefront with cart, sign-up and login on a Prisma database
 ## Tools
 TypeScript · JavaScript · React · Next.js · Tailwind CSS · Supabase · Prisma · Vitest · Docker · GitHub Actions
 ## Contact
